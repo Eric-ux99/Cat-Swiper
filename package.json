@@ -2,7 +2,7 @@
   "name": "cat-swiper",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://Eric-ux99.github.io/Cat-Swiper/",
+  "homepage": "https://github.com/Eric-ux99/Cat-Swiper",
   "type": "module",
   "scripts": {
     "dev": "vite",
